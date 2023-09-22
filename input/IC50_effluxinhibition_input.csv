@@ -1,0 +1,57 @@
+﻿compound,severity,DILI.annotation,IC50_BSEP,CAS,conc.enzymes.inh,unit.conc.enzymes.inh,substrate.uM,substrate.Km,method.BSEP,reference.BSEP,Notes_IC50
+Atorvastatin,SD,mixed,2.6,134523-00-5,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Benzbromarone,SD,HCN,2.8,3562-84-3,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Benziodarone,SD,HCN,0.76,68-90-6,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Bicalutamide,SD,HCN,22.4,90357-06-5,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Bosentan,SD,CHL,9.2,147536-97-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Cerivastatin,SD,HCN,3.9,145599-86-6,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Cyclofenil,SD,HCN,10.7,2624-43-3,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Deferasirox,SD,HCN,11.9,201530-41-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Disulfiram,SD,HCN,12,97-77-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Fipexide,SD,HCN,4.9,34161-24-5,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Fluoxetine,SD,HCN,5.5,54910-89-3,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Flutamide,SD,mixed,21.4,13311-84-7,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Itraconazole,SD,CHL,10000,84625-61-6,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Ketoconazole,SD,HCN,3,65277-42-1,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Ritonavir,SD,CHL,0.2,155213-67-5,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Saquinavir,SD,CHL,0.4,127779-20-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Troglitazone,SD,CHL,0.5,97322-87-7,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Chlorpromazine,NSD,CHL,6.4,34468-21-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Clotrimazole,NSD,CHL,1.1,23593-75-1,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Cyclosporine,NSD,CHL,0.1,59865-13-3,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Glimepiride,NSD,mixed,14.1,261361-60-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Haloperidol,NSD,CHL,25.3,52-86-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Lovastatin,NSD,mixed,1.7,75330-75-5,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Pioglitazone,NSD,mixed,1.4,111025-46-8,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Piperacillin,NSD,CHL,10000,61477-96-1,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Rofecoxib,NSD,CHL,10000,162011-90-7,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Rosiglitazone,NSD,mixed,0.2,155141-29-0,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Trazodone,NSD,mixed,43,19794-93-5,0.25,10^6 cell/ml,100,25.9,SHH,Zhang2016,
+Fumonisin B1,NSD,mixed,0.1,116355-83-0,,,,,,,fictive data
+Senecionine,NSD,mixed,0.1,130-01-8,,,,,,,fictive data
+PFOA,NSD,mixed,0.1,335-67-1,,,,,,,fictive data
+PFOS,NSD,mixed,0.1,1763-23-1,,,,,,,fictive data
+Atorvastatin,SD,mixed,13,134523-00-5,,,1.4,17,MV,Morgan2013,
+Bicalutamide,SD,HCN,79.6,90357-06-5,,,1.4,17,MV,Morgan2013,
+Bosentan,SD,CHL,23,147536-97-8,,,1.4,17,MV,Morgan2013,
+Bosentan,SD,CHL,38.1,147536-97-8,,,0.5,17,MV,Dawson2012,
+Deferasirox,SD,HCN,58.4,201530-41-8,,,1.4,17,MV,Morgan2013,
+Fluoxetine,SD,HCN,,54910-89-3,,,,17,MV,Hafey2020,>100
+Flutamide,SD,mixed,,13311-84-7,,,0.5,17,MV,Dawson2012,>100
+Itraconazole,SD,CHL,18,84625-61-6,,,1.4,17,MV,Morgan2013,
+Ketoconazole,SD,HCN,3.4,65277-42-1,,,1.4,17,MV,Morgan2013,
+Ketoconazole,SD,HCN,2.9,65277-42-1,,,0.5,17,MV,Dawson2012,
+Ritonavir,SD,CHL,1.74,155213-67-5,,,1.4,17,MV,Morgan2013,
+Saquinavir,SD,CHL,4.9,127779-20-8,,,1.4,17,MV,Morgan2013,
+Troglitazone,SD,CHL,3,97322-87-7,,,1.4,17,MV,Morgan2013,
+Troglitazone,SD,CHL,2.7,97322-87-7,,,0.5,17,MV,Dawson2012,
+Chlorpromazine,NSD,CHL,,34468-21-8,,,0.5,17,MV,Dawson2012,
+Cyclosporine,NSD,CHL,0.5,59865-13-3,,,0.5,17,MV,Dawson2012,
+Cyclosporine,NSD,CHL,0.5,59865-13-3,,,1.4,17,MV,Morgan2013,
+Glimepiride,NSD,mixed,15.7,261361-60-8,,,1.4,17,MV,Morgan2013,
+Haloperidol,NSD,CHL,,52-86-8,,,,17,MV,Kock 2014,>100
+Lovastatin,NSD,mixed,19.3,75330-75-5,,,1.4,17,MV,Morgan2013,
+Pioglitazone,NSD,mixed,0.3,111025-46-8,,,0.5,17,MV,Dawson2013,
+Rosiglitazone,NSD,mixed,2.8,155141-29-0,,,1.4,17,MV,Morgan2013,
+Rosiglitazone,NSD,mixed,6.4,155141-29-0,,,0.5,17,MV,Dawson2012,>100
+Trazodone,NSD,mixed,,19794-93-5,,,,17,MV,Kostrubsky2006,>100
